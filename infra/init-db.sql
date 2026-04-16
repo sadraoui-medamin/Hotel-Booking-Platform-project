@@ -1,0 +1,12 @@
+CREATE DATABASE auth_db;
+CREATE DATABASE bookings_db;
+CREATE DATABASE hotels_db;
+CREATE DATABASE payments_db;
+CREATE DATABASE analytics_db;
+CREATE DATABASE notifications_db;
+CREATE DATABASE reviews_db;
+CREATE DATABASE loyalty_db;
+CREATE DATABASE chat_db;
+CREATE DATABASE currency_db;
+CREATE DATABASE search_db;
+CREATE DATABASE worker_db;
